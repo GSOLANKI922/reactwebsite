@@ -1,0 +1,17 @@
+.header {
+  width: 99.37%;
+  background-color: #ffc107d9;
+  display: flex;
+  justify-content: flex-start;
+  color: #be8c28d9;
+  align-items: center;
+  padding: 5px;
+}
+
+.header > h1 {
+  margin: 0px 10px;
+}
+
+.header > img {
+  margin-left: 30px;
+}
